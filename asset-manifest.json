@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projeto-primeflix-app/static/css/main.b4069e80.css",
+    "main.js": "/projeto-primeflix-app/static/js/main.2602571b.js",
+    "index.html": "/projeto-primeflix-app/index.html",
+    "main.b4069e80.css.map": "/projeto-primeflix-app/static/css/main.b4069e80.css.map",
+    "main.2602571b.js.map": "/projeto-primeflix-app/static/js/main.2602571b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4069e80.css",
+    "static/js/main.2602571b.js"
+  ]
+}
