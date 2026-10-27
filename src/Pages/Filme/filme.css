@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+
+
+.filme-info{ display: flex;
+             flex-direction: column;
+             margin-top: 30px;
+             max-width: 800px;
+             padding: 0px 8px;
+}
+
+
+.filme-info h1 {  margin-bottom: 25px ;
+    text-align: center;
+    color: red;
+    font-family: "Unbounded", sans-serif;;
+
+}
+
+.filme-info img {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.361);
+    max-width: 100%;
+    
+}
+
+.filme-info h3{
+     margin-top: 20px;
+     font-size: 25px;
+     
+} 
+
+.filme-info span{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.filme-info strong{
+      color: rgb(179, 9, 9);
+      font-size: 19px;
+}
+
+.area-buttons button{
+
+        margin-right: 10px;
+        margin-top: 15px;
+        margin-left: 0;
+        padding: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: bold;
+    
+       
+        
+        
+
+}
+
+.area-buttons button:hover{
+
+    background-color: rgba(255, 0, 0, 0.538);
+    color: white;
+
+
+
+}
+
+a{
+    text-decoration: none;
+}
